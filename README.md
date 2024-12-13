@@ -1,7 +1,5 @@
 # Moving Robot
 API to code custom robot behavior.
-<br>
-I got a task on my IT lesson to code a robot that moves on a certain path near the walls and paint cells. I so disliked program we were using in school, so I coded this engine to play with robots and algorithms! :3
 
 ***
 
